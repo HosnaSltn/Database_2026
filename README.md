@@ -9,6 +9,8 @@ Course materials for **Database**, taught by Dr. Mohammadreza Saeidi at the [Uni
 
 **[Slides and textbooks](Sources/)** &nbsp;·&nbsp; **[Exercises](exercise/)** &nbsp;·&nbsp; **[Quizzes](Quiz/)** &nbsp;·&nbsp; **[Tool guides](exercise/Tools/)**
 
+Each folder has its own README with details and previews.
+
 The slides, exercises and quizzes are in Persian. The textbooks and tool guides are in English.
 
 ## Course map
@@ -33,6 +35,7 @@ The [lecture slides](<Sources/course slides.pdf>) run to 447 pages across eight 
 | Set | Topics | Files |
 |:---|:---|:---|
 | Exercise&nbsp;1 | ACID properties in concurrent transactions, two-tier and three-tier architectures, ER diagrams for a library and a postal system | [EXC-1](exercise/EXC-1.pdf) |
+| Exercise&nbsp;2 | SQL on a movie database: an ERD in Visual Paradigm, building the database with real data, and 14 query tasks | [EXC-2](exercise/EXC-2.pdf) |
 | Quiz&nbsp;1,&nbsp;Set&nbsp;1 | Three-tier architecture, ER diagrams in Chen notation, mapping ER to tables | [With&nbsp;answers](Quiz/Database_Quiz1_Set1.pdf) |
 | Quiz&nbsp;1,&nbsp;Set&nbsp;2 | File processing versus databases, ER diagrams in Chen notation, tabular database design | [With&nbsp;answers](Quiz/Database_Quiz1_Set2.pdf) |
 
