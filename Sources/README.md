@@ -11,7 +11,7 @@ This folder holds the lecture slides and the reference textbooks for the course.
 
 ## Lecture slides
 
-[**Course slides**](<course slides.pdf>) &nbsp;·&nbsp; 447 pages &nbsp;·&nbsp; Persian &nbsp;·&nbsp; 9.2 MB
+[**Course slides**](<course slides.pdf>) &nbsp;·&nbsp; 447 pages
 
 The deck opens with a course introduction (pages 1–10), followed by eight parts.
 
@@ -32,15 +32,13 @@ The deck opens with a course introduction (pages 1–10), followed by eight part
 
 <img src="../assets/shelf.png" alt="Covers of the five reference textbooks.">
 
-| Title | Authors | Edition | Pages | Size |
-|:---|:---|:---:|---:|---:|
-| [An Introduction to Database Systems](<An Introduction to Database Systems.pdf>) | C. J. Date | 8th,&nbsp;2003 | 1,034 | 18.1&nbsp;MB |
-| [Database Management Systems](<Database Management Systems.pdf>) | Raghu Ramakrishnan, Johannes Gehrke | 3rd,&nbsp;2002 | 1,098 | 20.1&nbsp;MB |
-| [Database Systems: A Practical Approach to Design, Implementation, and Management](<Database System A Practical Approach to Design Implementation and Management.pdf>) | Thomas Connolly, Carolyn Begg | 6th,&nbsp;2014 | 1,442 | 23.0&nbsp;MB |
-| [Database System Concepts](<Database System Concepts.pdf>) | Abraham Silberschatz, Henry F. Korth, S. Sudarshan | 7th,&nbsp;2020 | 1,373 | 16.3&nbsp;MB |
-| [Fundamentals of Database Systems](<Fundamentals of Database Systems.pdf>) | Ramez Elmasri, Shamkant B. Navathe | 7th,&nbsp;2015 | 1,273 | 4.5&nbsp;MB |
-
-The textbooks account for most of the repository's size. To download the course without them, see [Getting the files](../README.md#getting-the-files).
+| Title | Authors | Edition | Pages |
+|:---|:---|:---:|---:|
+| [An Introduction to Database Systems](<An Introduction to Database Systems.pdf>) | C. J. Date | 8th,&nbsp;2003 | 1,034 | 
+| [Database Management Systems](<Database Management Systems.pdf>) | Raghu Ramakrishnan, Johannes Gehrke | 3rd,&nbsp;2002 | 1,098 |
+| [Database Systems: A Practical Approach to Design, Implementation, and Management](<Database System A Practical Approach to Design Implementation and Management.pdf>) | Thomas Connolly, Carolyn Begg | 6th,&nbsp;2014 | 1,442 |
+| [Database System Concepts](<Database System Concepts.pdf>) | Abraham Silberschatz, Henry F. Korth, S. Sudarshan | 7th,&nbsp;2020 | 1,373 |
+| [Fundamentals of Database Systems](<Fundamentals of Database Systems.pdf>) | Ramez Elmasri, Shamkant B. Navathe | 7th,&nbsp;2015 | 1,273 |
 
 ## Credits
 
